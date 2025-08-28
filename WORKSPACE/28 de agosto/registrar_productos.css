@@ -1,0 +1,37 @@
+
+        body {
+            font-family: Calibri, sans-serif;
+            background-color: #E3ECF5;
+        }
+
+        .register-container {
+            max-width: 500px;
+            margin: auto;
+            margin-top: 60px;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-custom {
+            background-color: #5A7493;
+            color: white;
+        }
+
+        .btn-custom:hover {
+            background-color: #49607a;
+        }
+
+        h2 {
+            color: #36454F;
+        }
+
+        .navbar {
+            background-color: #A3B8D9;
+        }
+
+        .navbar-brand {
+            color: white;
+            font-weight: bold;
+        }
